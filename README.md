@@ -7,4 +7,6 @@ git add .
 git commit -m "comentarios"
 # 3 guardar los cambios
 git push
+# 4 actualizar repositorio
+
 
